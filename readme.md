@@ -24,6 +24,8 @@
 ## Training and Certification
 
 - [Microsoft Azure Virtual Training Day:Fundamentals](https://info.microsoft.com/AU-HCSAzureHybridInfra-CATALOG-FY21-07Jul-07-MicrosoftAzureVirtualTrainingDayFundamentals-SRDEM33006_CatalogDisplayPage.html)
+- [AZ-900 Azure Fundamentals Study Cram by John Savill's](https://www.youtube.com/watch?v=tQp1YkB2Tgs)
 - [Microsoft Azure Virtual Training Day:Data Fundamentals](https://info.microsoft.com/AU-AzureSQL-CATALOG-FY21-02Feb-10-MicrosoftAzureVirtualTrainingDayDataFundamentals-SRDEM60617_CatalogDisplayPage.html)
+- [DP-900 Data Fundamentals Study Cram by John Savill's](https://www.youtube.com/watch?v=0gtpasITVnk)
 - [Virtual Training Days - ANZ](https://www.microsoft.com/en-au/business/learn/cloud-training-events/virtual-training-days/)
 - [Microsoft Certifications](https://learn.microsoft.com/en-us/certifications/)
